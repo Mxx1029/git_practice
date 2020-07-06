@@ -1,6 +1,6 @@
 Hello Git and GitHub
 
-## How to format your README (from [here](https://guides.github.com/features/wikis/)
+## How to format your README (from [here](https://guides.github.com/features/wikis/))
 
 should contain only necessary information on how to start using and contributing to the project. **Longer documentation is best suited for wikis**
 
