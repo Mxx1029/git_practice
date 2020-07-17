@@ -26,3 +26,5 @@ _exerpt from [here](https://www.youtube.com/watch?v=wrb7Gge9yoE)_
 
 12. $ **git push -u origin master**     (pushes all to GitHub into a master branch)
 
+13. to delete a local GitHub repository, use the $ **rm -rf** on the “. git” file located at the root of your Git repository. By deleting the “. git” file, you will delete the Github repository but you won't delete the files that are located in your project folder.
+
