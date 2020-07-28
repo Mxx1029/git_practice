@@ -8,5 +8,8 @@ taken from Codecademy Forum for [Company Home Page Challenge Project (Css,Flexbo
 - great re-use of classes!!
 - fixed background images
 - linear-radiant backgrounds around pictures
+- logo
 
 2. Demo [ALLY Design Studio](https://llewllew.github.io/ALLY-Design-Studio-Homepage/), [Code](https://github.com/LlewLlew/ALLY-Design-Studio-Homepage)
+- great flexbox responsive image behaviour 
+- navbar turns menu when shrinking
