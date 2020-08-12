@@ -2,7 +2,13 @@
 
 _exerpt from [here](https://www.youtube.com/watch?v=wrb7Gge9yoE)_
 
-IMPORTANT: to leave directory + go back to home $ **cd**
+###*Standard commands:*###
+- to leave directory + go back to home $ **cd**
+- to create a text file + fill some text in $ **echo "Hello! This text is going into my newly created txt.-File" >> newtext-file.txt**
+- to print the file's content $ **cat newtext-file.txt**
+- $ **mkdir test**
+- $ **rm newtext-file.txt**
+- $ **rmdir test**
 
 1. create new repository on GitHub 
 
