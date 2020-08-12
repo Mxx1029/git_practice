@@ -2,6 +2,8 @@
 
 _exerpt from [here](https://www.youtube.com/watch?v=wrb7Gge9yoE)_
 
+IMPORTANT: to leave directory + go back to home $ **cd**
+
 1. create new repository on GitHub 
 
 2. open command line
