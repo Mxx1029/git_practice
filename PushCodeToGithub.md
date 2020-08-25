@@ -3,12 +3,12 @@
 _exerpt from [here](https://www.youtube.com/watch?v=wrb7Gge9yoE)_
 
 ### Standard commands: ###
-- to leave directory + go back to home $ **cd**
-- to create a text file + fill some text in $ **echo "Hello! This text is going into my newly created txt.-File" >> newtext-file.txt**
-- to print the file's content $ **cat newtext-file.txt**
-- $ **mkdir test**
-- $ **rm newtext-file.txt**
-- $ **rmdir test**
+- $ **cd** (leave directory + go back to home)
+- $ **echo "Hello! This text is going into my newly created txt.-File" >> newtext-file.txt** (create a text file + fill some text in)
+- $ **cat newtext-file.txt** (print the file's content to console)
+- $ **mkdir test** (make folder named "test")
+- $ **rm newtext-file.txt** (remove file)
+- $ **rmdir test** (remove folder "test")
 
 ### push to GitHub ###
 
